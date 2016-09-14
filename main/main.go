@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("add line")
 	fmt.Println("4line")
 	fmt.Println("add add")
+	fmt.Println("マスターリポにpushできる？")
 }
