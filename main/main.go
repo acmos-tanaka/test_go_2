@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("add add")
 	fmt.Println("マスターリポにpushできる？")
 	fmt.Println("issue-12")
+	fmt.Println("issue-13")
 }
